@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "861631217108",
+    "firebase_url": "https://mobile-va.firebaseio.com",
+    "project_id": "mobile-va",
+    "storage_bucket": "mobile-va.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861631217108:android:2626db7aae4c0110",
+        "android_client_info": {
+          "package_name": "edu.liberty.lusva314960"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861631217108-e9vv6fd6uc370nfvji8kasf59dtv4kc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBImXRGdpSZevJHWA4D6CbnQg4CHt14S2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
